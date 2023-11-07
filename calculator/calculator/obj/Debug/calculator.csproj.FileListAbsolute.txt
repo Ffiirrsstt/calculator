@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Desktop\GitHub\First-s_iPad_Store\CPE263_Final\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\LENOVO\Desktop\GitHub\First-s_iPad_Store\CPE263_Final\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\LENOVO\Desktop\GitHub\First-s_iPad_Store\CPE263_Final\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\LENOVO\Desktop\GitHub\First-s_iPad_Store\CPE263_Final\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\GitHub\First-s_iPad_Store\CPE263_Final\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\LENOVO\Desktop\GitHub\First-s_iPad_Store\CPE263_Final\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\GitHub\First-s_iPad_Store\CPE263_Final\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\GitHub\First-s_iPad_Store\CPE263_Final\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\GitHub\First-s_iPad_Store\CPE263_Final\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\LENOVO\Desktop\GitHub\First-s_iPad_Store\CPE263_Final\calculator\calculator\obj\Debug\calculator.pdb
